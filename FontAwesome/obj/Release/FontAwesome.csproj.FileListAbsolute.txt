@@ -1,0 +1,6 @@
+C:\MyPhones\Source\Projects\PhoneBuddy\FontAwesome\bin\Release\FontAwesome.dll
+C:\MyPhones\Source\Projects\PhoneBuddy\FontAwesome\bin\Release\FontAwesome.pdb
+C:\MyPhones\Source\Projects\PhoneBuddy\FontAwesome\obj\Release\FontAwesome.csproj.CoreCompileInputs.cache
+C:\MyPhones\Source\Projects\PhoneBuddy\FontAwesome\obj\Release\FontAwesome.dll
+C:\MyPhones\Source\Projects\PhoneBuddy\FontAwesome\obj\Release\FontAwesome.pdb
+C:\MyPhones\Source\Projects\PhoneBuddy\FontAwesome\obj\Release\FontAwesome.csprojAssemblyReference.cache
