@@ -6,3 +6,5 @@ The Force.com PHP Toolkit provides an easy-to-use wrapper for the Force.com Web 
 See the [getting started guide](http://wiki.developerforce.com/index.php/Getting_Started_with_the_Force.com_Toolkit_for_PHP) for sample code to create, retrieve, update and delete records in the Force.com database.
 
 I Have added new lines.
+
+TEST!"£"!£"!£"!£
