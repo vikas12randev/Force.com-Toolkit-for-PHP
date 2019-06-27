@@ -1,0 +1,12 @@
+C:\MyPhones\Source\Projects\UCClientProtoType\WebReferences\bin\Debug\netcoreapp2.2\WebReferences.deps.json
+C:\MyPhones\Source\Projects\UCClientProtoType\WebReferences\bin\Debug\netcoreapp2.2\WebReferences.dll
+C:\MyPhones\Source\Projects\UCClientProtoType\WebReferences\bin\Debug\netcoreapp2.2\WebReferences.pdb
+C:\MyPhones\Source\Projects\UCClientProtoType\WebReferences\bin\Debug\netcoreapp2.2\Model.dll
+C:\MyPhones\Source\Projects\UCClientProtoType\WebReferences\bin\Debug\netcoreapp2.2\Model.pdb
+C:\MyPhones\Source\Projects\UCClientProtoType\WebReferences\obj\Debug\netcoreapp2.2\WebReferences.csprojAssemblyReference.cache
+C:\MyPhones\Source\Projects\UCClientProtoType\WebReferences\obj\Debug\netcoreapp2.2\WebReferences.csproj.CoreCompileInputs.cache
+C:\MyPhones\Source\Projects\UCClientProtoType\WebReferences\obj\Debug\netcoreapp2.2\WebReferences.AssemblyInfoInputs.cache
+C:\MyPhones\Source\Projects\UCClientProtoType\WebReferences\obj\Debug\netcoreapp2.2\WebReferences.AssemblyInfo.cs
+C:\MyPhones\Source\Projects\UCClientProtoType\WebReferences\obj\Debug\netcoreapp2.2\WebReferences.csproj.CopyComplete
+C:\MyPhones\Source\Projects\UCClientProtoType\WebReferences\obj\Debug\netcoreapp2.2\WebReferences.dll
+C:\MyPhones\Source\Projects\UCClientProtoType\WebReferences\obj\Debug\netcoreapp2.2\WebReferences.pdb
